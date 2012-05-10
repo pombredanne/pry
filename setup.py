@@ -24,8 +24,7 @@ setup(
         long_description = long_description,
         author = "Aldo Cortesi",
         author_email = "aldo@nullcube.com",
-        url = "http://dev.nullcube.com",
-        download_url="http://dev.nullcube.com/download/pry-%s.tar.gz"%version,
+        url = "http://corte.si",
         packages = ["libpry"],
         scripts = ["pry"],
         classifiers = [
